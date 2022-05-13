@@ -7,7 +7,7 @@ Share，gnu，linux，bsd
 ### 开源现状
 - GNU\Linux、Mozilla、Apache
 - Mysql、Java、Redis
-- Visual Studio Code、Vue
+- Visual Studio Code、Vue、FireFox
 - openHarmony
 ## 开源的优缺点
 ### 优点
@@ -99,3 +99,9 @@ http://c.biancheng.net/view/6604.html?msclkid=b64a2963cfa511ecbebe9bf50370134c
 
 如何看待 Azer Koçulu 删除了自己的所有 npm 库？
 https://www.zhihu.com/question/41694868?msclkid=cbbc1b4acfa011ec8e63a5e687e10fa3
+
+开源协议专题(一)：计算机和操作系统发展史
+https://zhuanlan.zhihu.com/p/350881838?msclkid=b64a9e3fcfa511ec9611602b06546998
+
+开源架构的利弊分析
+https://blog.csdn.net/weixin_34301307/article/details/93086804?msclkid=0094e071cfa711ec854cad3177751181
